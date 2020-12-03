@@ -1,0 +1,224 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.menu li{
+    list-style:none;
+    width: 130px;
+    height: 50px;
+    background-color:  #2196f3;
+    margin-left:5px;
+    text-align: center;
+    line-height: 50px;
+    float: left;
+}
+.menu li:hover{
+    background-color: black;
+}
+.menu li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+.logo {
+    width: 50px;
+}
+.logo_li {
+    background-color: #2196f3!important;
+}
+.my_menu{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: #2196f3;
+}
+.menu ul li{
+    margin: 0px;
+}
+.menu ul{
+    display: none;
+}
+.menu li:hover ul{
+    display:block;
+}
+
+/* photos */
+#photos {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(170, 170, 111);
+}
+#photos h1{
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    border-bottom: 2px solid red;
+}
+#photos h2{
+    color: blue;
+}
+#photos_size{
+    width: 200px;
+    height: 200px;
+}
+#photos2{
+    width: 200px;
+    height: 200px;
+}
+#photos3{
+    width: 200px;
+    height: 200px;
+}
+#photos_1{
+    width: 200px;
+    height: 200px;
+}
+#photos_2{
+    width: 200px;
+    height: 200px;
+}
+#photos_3{
+    width: 200px;
+    height: 200px;
+}
+#photos h3{
+    color: purple;
+}
+#photos h4{
+    color: orange;
+}
+#photos__1{
+    width: 200px;
+    height: 200px;
+}
+#photos__2{
+    width: 200px;
+    height: 200px;
+}
+#photos__2{
+    width: 200px;
+    height: 200px;
+}
+#photos__3{
+    width: 200px;
+    height: 200px;
+}
+#photos__4{
+    width: 200px;
+    height: 200px;
+}
+#Details{
+    background-color: rgba(122, 122, 24, 0.123);
+}
+#Details p{
+    color:blue;
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 2px solid red;
+}
+#Details {
+    width: 100%;
+    text-align: center;
+}
+#motto {
+    width: 200px;
+    height: 200px;
+}
+#Details h5{
+    color: red;
+    font-size: 20px;
+}
+#Details h3{
+    color: blue;
+    font-size: 20px;
+}
+#Details h2{
+    color: purple;
+}
+#Details h1{
+    color: purple;
+}
+#Details h4{
+    color: purple;
+    font-size: 30px;
+}
+#Details h6{
+    color: red;
+    font-size: 20px;
+}
+#about{
+    background-color: yellow;
+}
+#about h1{
+    color:red;
+    font-size: 30px;
+}
+#about p{
+    color:blue;
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 2px solid red;
+}
+#about h2{
+    color:blue;
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 2px solid red;
+}
+#about h3{
+    color:blue;
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid red;
+}
+#about h4{
+    color:blue;
+    font-size: 30px;
+}
+
+#about h5{
+    color:blue;
+    margin: 0px auto;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid red;
+}
+#about h6{
+    color: blue;
+    font-size: 30px;
+}
+#h h1{
+        color:blue;
+        margin: 0px auto;
+        width: 300px;
+        text-align: center;
+        font-size: 30px;
+        border-bottom: 2px solid red;
+    }
+#h h2{
+    color: blue;
+    font-size: 30px;
+}
+#h{
+    background-color: orange;
+}
+#copy{
+    text-align: right;
+    background-color: brown;
+    color: white;
+}
